@@ -4,7 +4,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohitto55)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dkak_14)](https://solved.ac/dkak_14)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dkak14)](https://solved.ac/dkak14)
 
 <div>
 <h3>💪Stacks</h3>
