@@ -1,6 +1,3 @@
-## Hi there 👋
-
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohitto55)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohitto55)](https://github.com/mohitto55/github-readme-stats)
@@ -32,3 +29,6 @@
 <img src="https://img.shields.io/badge/visual studio code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
 <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 </div>
+
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
